@@ -1,0 +1,14 @@
+uuid: d23983db-bd14-4fcc-a096-240adc5bbc11
+name: haycombe-bathnes
+mail: bathcitysec@bcyfc.co.uk
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
